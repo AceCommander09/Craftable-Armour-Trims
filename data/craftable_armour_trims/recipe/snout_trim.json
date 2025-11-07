@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:diamond",
+    "b": "minecraft:polished_blackstone_bricks"
+  },
+  "result": {
+    "id": "minecraft:snout_armor_trim_smithing_template",
+    "count": 1
+  }
+}
